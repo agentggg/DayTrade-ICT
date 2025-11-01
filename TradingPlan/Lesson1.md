@@ -157,29 +157,38 @@ It's **VERY IMPORTANT** to track countries interest rates
 | 🔺 **High / Rising Rates** | **Hawkish** | USD ↑ | Stocks ↓ | Gold ↓ | Shorting rallies; momentum fades |
 | 🔻 **Low / Falling Rates** | **Dovish** | USD ↓ | Stocks ↑ | Gold ↑ | Buy-the-dip sentiment; smoother trends |
 
+## Core Principle for Long-Term Analysis
+The currency market trends on long-term based on interset rates
 
+If the country sees lowering interst rates, the ccurrency is lower. If the country sees higher intrest rates the currency is higher. 
+- When the **USD** value goes up, **GOLD** value goes down. Vice-Versa
 
+## Sasonal Tendencies: 
+_disclaimer: ICT trades **British Pound**_
 
+Look for Seasonal Tendecnies:
 
-- core principle for long-term analysis
-the currency market tredns on long term based on interset rates
+### Example: 
+**Brithsh Pound** tends to make major LOWS in the following months 
+- Feb 
+- March 
+- June 
+- September 
+- October 
+- December 
 
-if the country sees lowering interst rates, the currency is lwoer, vice-versa
+**Brithsh Pound** also tends to make major HIGHS in the following months 
+- April 
+- May
 
-seasonal tendencies: 
-ICT trades British Pound
-Look seasonal tendecnies
+**Seasonalitly:** Gives you an idea on when or how to trade because if the previous 10 years shows a specific month to always be bearish, then it is recommended to be cautious on going for a long throughout that time
 
-Example brithsh pound to make major lows in Feb- March, June, September - October and December and highs in April - May, 
-als seen in stocks
-seasonalitly gives you an idea on when or how to trade because if the last past 10 years shows a specific month to always be a sell, then I would be cautious on going for a buy throughout that time
+To find the seasonaility chart do this
+`Trading View App > Markets > Search for assest (under the search tree, not the popups. Find the specific one) > Seasonals`
 
-to find seasonaility chart do this
-Trading View App > Markets > Search for assest (under the search tree, not the popups. Find the specific one) > Seasonals
+_Gold is under metal_
 
-Gold is under metal
-
-Look up Larry Williams course
+ [^1]: Look up Larry Williams course
 
 COT & Commercial Trend
 Look at HTF and analyze what are the SM is doing bullish and bearish, and match that, don't go against the grain. If the daily/weekly is bullish, try to trade towards that trend. HTF
