@@ -188,7 +188,7 @@ To find the seasonaility chart do this
 
 _Gold is under metal_
 
- [^1]: Look up Larry Williams course
+> Look up Larry Williams course
 
 COT & Commercial Trend
 Look at HTF and analyze what are the SM is doing bullish and bearish, and match that, don't go against the grain. If the daily/weekly is bullish, try to trade towards that trend. HTF
