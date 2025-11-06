@@ -1,3 +1,9 @@
+---
+layout: default
+title: Development Lesson 1
+---
+# Development Lesson 1
+
 # ICT Trading Plan Development
 
 ## Module 1
